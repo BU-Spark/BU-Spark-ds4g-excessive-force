@@ -1,0 +1,11 @@
+pdfplumber
+pandas
+numpy
+pdf2image
+#pdfminer.six
+pdfminer3
+matplotlib
+dataframe_image
+beautifulsoup4
+#pdftotext
+#camelot

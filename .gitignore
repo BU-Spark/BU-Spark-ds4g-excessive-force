@@ -1,3 +1,9 @@
+# ignore large pdfs, htmls, csvs: you can find them in the gdrive
+*pdf
+*csv
+*html
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
